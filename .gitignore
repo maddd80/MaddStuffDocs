@@ -5,3 +5,4 @@ dist-ssr
 *.local
 .vitepress/dist
 .vitepress/cache
+/docs/.vitepress/cache

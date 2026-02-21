@@ -2,22 +2,21 @@
 layout: home
 
 hero:
-  name: "MaddStuff Docs"
-  text: "Documentation for MaddStuff projects"
-  tagline: "Comprehensive guides and API references"
+  name: "MaddStuff Documentation"
+  tagline: "Installation guides, configuration references, and API documentation for MaddStuff resources."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Getting Started
+      link: /getting-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Browse Scripts
+      link: /scripts
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Installation Guides
+    details: Step-by-step setup instructions for all MaddStuff resources.
+  - title: Configuration Reference
+    details: Detailed explanations of configuration options and customization.
+  - title: API & Events
+    details: Server and client exports, events, and usage examples.
 ---
