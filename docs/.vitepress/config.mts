@@ -56,7 +56,89 @@ export default defineConfig({
               { text: 'Changelog', link: '/scripts/interaction/changelog' }
             ]
           },
-          // Repeat for other scripts
+          {
+            text: 'Case System',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/cases/' },
+              { text: 'Installation', link: '/scripts/cases/installation' },
+              { text: 'Configuration', link: '/scripts/cases/configuration' },
+              { text: 'API', link: '/scripts/cases/api' }
+            ]
+          },
+          {
+            text: 'Gambling: Blackjack',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/blackjack/' },
+              { text: 'Installation', link: '/scripts/blackjack/installation' },
+              { text: 'Configuration', link: '/scripts/blackjack/configuration' }
+            ]
+          },
+          {
+            text: 'Gambling: Roulette',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/roulette/' },
+              { text: 'Installation', link: '/scripts/roulette/installation' },
+              { text: 'Configuration', link: '/scripts/roulette/configuration' }
+            ]
+          },
+          {
+            text: 'Racing System',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/racing/' },
+              { text: 'Installation', link: '/scripts/racing/installation' },
+              { text: 'Configuration', link: '/scripts/racing/configuration' },
+              { text: 'API', link: '/scripts/racing/api' }
+            ]
+          },
+          {
+            text: 'Emoji & Minigames',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/emoji/' },
+              { text: 'Installation', link: '/scripts/emoji/installation' },
+              { text: 'Configuration', link: '/scripts/emoji/configuration' }
+            ]
+          },
+          {
+            text: 'Grave Robbery',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/graverobbery/' },
+              { text: 'Installation', link: '/scripts/graverobbery/installation' },
+              { text: 'Configuration', link: '/scripts/graverobbery/configuration' }
+            ]
+          },
+          {
+            text: 'Character Details',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/details/' },
+              { text: 'Installation', link: '/scripts/details/installation' },
+              { text: 'Configuration', link: '/scripts/details/configuration' }
+            ]
+          },
+          {
+            text: 'Phonograph System',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/phonograph/' },
+              { text: 'Installation', link: '/scripts/phonograph/installation' },
+              { text: 'Configuration', link: '/scripts/phonograph/configuration' }
+            ]
+          },
+          {
+            text: 'Madd UI (Core)',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/ui/' },
+              { text: 'Installation', link: '/scripts/ui/installation' },
+              { text: 'API Reference', link: '/scripts/ui/api' }
+            ]
+          },
         ]
       }
 
@@ -73,7 +155,7 @@ export default defineConfig({
             <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H.5a.5.5 0 0 1-.5-.5v-1A.5.5 0 0 1 .5 6h1.717L5.07 1.243a.5.5 0 0 1 .686-.172zM2.468 15.426.943 9h14.114l-1.525 6.426a.75.75 0 0 1-.729.574H3.197a.75.75 0 0 1-.73-.574z"/>
           </svg>`
         },
-        link: 'https://maddstuff.tebex.io',
+        link: 'https://www.maddstuffs.com',
         ariaLabel: 'Store'
       },
       { icon: 'github', link: 'https://github.com/maddd80' }
