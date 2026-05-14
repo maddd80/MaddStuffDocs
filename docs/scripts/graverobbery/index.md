@@ -4,11 +4,10 @@ Madd Grave Robbery introduces a high-risk, high-reward criminal activity to your
 
 :::: tabs
 ::: tab PREVIEW
-Immersive digging animations, weighted loot tables, and a dynamic "Sell Goods" system to interact with NPCs.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMs2QyQDE9s" title="Madd Grave Robbery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Grave Robbery on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/grave-robbery-system)
 :::
 ::::
 

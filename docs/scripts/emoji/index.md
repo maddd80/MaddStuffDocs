@@ -4,11 +4,10 @@ Madd Emoji is a versatile social resource that adds floating emojis, tarot card 
 
 :::: tabs
 ::: tab PREVIEW
-Floating icons above players' heads for better social interaction, and animated minigames for quick gambling or decision-making.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dD8quhfYBhM" title="Madd Emoji" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Emoji on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/emoji-system)
 :::
 ::::
 

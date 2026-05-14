@@ -2,12 +2,11 @@ Documentation related to the madd_interaction script.
 
 :::: tabs
 ::: tab PREVIEW
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tOOc8eF7tzA?si=5SwlgLed77a8k1wE" title="RedM - Camera Kit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tOOc8eF7tzA" title="Madd Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy it on the shop](https://maddstuff.tebex.io/package/6411001)
+[Buy it on the shop](https://www.maddstuffs.com/package/world-interactions-system)
 :::
-
 ::::
 
 Elevate your RedM server experience with our cutting-edge interaction system, designed specifically to enhance player immersion and streamline roleplay (RP) interactions. Lightweight and highly optimized, this script is the perfect addition to any RedM server, ensuring seamless and realistic gameplay.

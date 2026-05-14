@@ -4,11 +4,10 @@ Madd Roulette brings the classic casino experience to RedM. Players can bet on n
 
 :::: tabs
 ::: tab PREVIEW
-Supports standard roulette rules, realistic physics-based wheel spins, and a detailed betting NUI.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRWlKepTZeo" title="Madd Roulette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Roulette on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/roulette-tables)
 :::
 ::::
 

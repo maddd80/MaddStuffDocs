@@ -4,11 +4,10 @@ Madd Cases is a premium, CS2-style case opening and trading system designed for 
 
 :::: tabs
 ::: tab PREVIEW
-The system features smooth spinning animations, rarity-based glow effects, and a modern glassmorphism UI.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVIjHhjfxP0" title="Madd Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Cases on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/cases-and-trades)
 :::
 ::::
 

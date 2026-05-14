@@ -4,11 +4,10 @@ Madd UI is the central user interface resource for the Madd's Stuffs script ecos
 
 :::: tabs
 ::: tab PREVIEW
-Includes notifications, skill-based progress bars, safecracking, lockpicking, and a full dialogue system with NPC camera control.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qCZG6QD_x-s" title="Madd UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd UI on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/user-interface-system)
 :::
 ::::
 

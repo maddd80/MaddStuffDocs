@@ -4,11 +4,10 @@ Bring music to life in the Wild West with Madd Phonograph. Players can buy recor
 
 :::: tabs
 ::: tab PREVIEW
-Immersive 3D audio, record making/buying system, and a portable phonograph prop that you can place anywhere.
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3fuHpeF9to" title="Madd Phonograph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Phonograph on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/phonograph-system)
 :::
 ::::
 

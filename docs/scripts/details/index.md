@@ -4,11 +4,10 @@ Madd Details allows players to add persistent physical details or conditions to 
 
 :::: tabs
 ::: tab PREVIEW
-Players can place a 3D marker/text at their location with descriptions like "Smells of whiskey" or "Has a visible scar on left eye."
-*(Preview video coming soon)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mJCnZ5hohg" title="Madd Details" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 ::: tab BUY
-[Buy Madd Details on the shop](https://maddstuffs.com/)
+[Buy it on the shop](https://www.maddstuffs.com/package/details-and-conditions-system)
 :::
 ::::
 

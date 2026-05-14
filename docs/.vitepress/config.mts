@@ -131,6 +131,15 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Telephone System',
+            collapsed: true,
+            items: [
+              { text: 'Overview', link: '/scripts/telephone/' },
+              { text: 'Installation', link: '/scripts/telephone/installation' },
+              { text: 'Configuration', link: '/scripts/telephone/configuration' }
+            ]
+          },
+          {
             text: 'Madd UI (Core)',
             collapsed: true,
             items: [
